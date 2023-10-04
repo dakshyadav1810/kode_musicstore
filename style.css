@@ -8,9 +8,7 @@
 }
 
 :root {
-  --nexa-light: "nexa-light", sans-serif;
-  --nexa-bold: "nexa-bold", sans-serif;
-  --akira: "akira", sans-serif;
+  --nexa-bold: "nexa-bold", sans-serif;  --akira: "akira", sans-serif;
   --integral-regular: "integral-regular", sans-serif;
   --integral-bold: "integral-bold", sans-serif;
   --raleway: "Raleway", sans-serif;
