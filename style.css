@@ -685,6 +685,7 @@ header .header .bar-btns i {
 
 .section-3 .section-header p {
   color: var(--black);
+  font-family: var(--raleway);
 }
 .section-3 .section-header p span {
   font-family: var(--nexa-bold);
